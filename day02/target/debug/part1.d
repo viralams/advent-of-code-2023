@@ -1,0 +1,1 @@
+/Users/sharan.sreedar/Development/Rust/advent-of-code-2023/day02/target/debug/part1: /Users/sharan.sreedar/Development/Rust/advent-of-code-2023/day02/src/bin/part1.rs /Users/sharan.sreedar/Development/Rust/advent-of-code-2023/day02/src/bin/test.txt
