@@ -89,7 +89,7 @@ fn main() {
                 bid,
             )
         })
-        .collect::<BinaryHeap<_>>()
+        .collect::<BinaryHeap<_>>() // Heaps are cool
         .into_sorted_vec()
         .iter()
         .enumerate()
